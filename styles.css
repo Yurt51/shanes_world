@@ -34,6 +34,7 @@ html {
     opacity: 0; /* start with zero opacity */
     transition: opacity 5s ease-in-out; /* transition for fading */
     animation: wave 6s ease-in-out infinite;
+    object-fit: cover;
     /*result: not desired effect but not...bad*/
 }
 
